@@ -1,4 +1,4 @@
-# Online-Store-Data-Analysis
+# Financial-Data-Analysis
 This repository contains code and resources for conducting analysis on top 500 companies of India. The purpose of this project is to explore, analyse, and derive insights from companies financial data. The analysis encompasses various aspects &amp; factors influencing various orders.
 
 ## Project Overview
