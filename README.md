@@ -5,7 +5,7 @@ This repository contains code and resources for conducting analysis on top 500 c
 
 **I completed this analysis as part of my 1 month internship at Unified Mentor. I was tasked to analyse the competition for the management to provide better results.**
 
-![Dashboard](online_store_report_sc.png)
+[Tableau Dashboard](https://public.tableau.com/app/profile/tahir.malik/viz/financial-data-analysis/Dashboard)
 
 ###  Data Sources
 
@@ -57,14 +57,18 @@ Companies Financial Data: The primary dataset used for this analysis is in "data
 ### SHARE
 1. Reliance Industries (5,83,436 Cr) has the biggest market cap share
 2. Natl. Fertilizers (3,017 Cr) has the smallest market share
-3. IOCL (1,10,666 Cr) has most quaterly sales
-4. Ujjivan Financial Services  (0 Cr) has least quaterly sales
-5. SPARC (553.82) has the highest Sales Efficiency Ratio
-6. Ujjivan Financial Services (0.0) has the lowest sales Sales Efficiency Ratio
-7. Majority companies market cap lies between between 0 - 1,50,000 Cr
-8. Majority companies quaterly sales lies between 0 - 27,500 Cr
+5. IOCL (1,10,666 Cr) has most quaterly sales
+6. Ujjivan Financial Services  (0 Cr) has least quaterly sales
+7. SPARC (553.82) has the highest Sales Efficiency Ratio
+8. Ujjivan Financial Services (0.0) has the lowest sales Sales Efficiency Ratio
+9. Majority companies market cap lies between between 0 - 1,50,000 Cr
+10. Majority companies quaterly sales lies between 0 - 27,500 Cr
 
 ### ACT
 - Reliance Industries stands out with the largest market capitalization, while Ujjivan Financial Services appears to be struggling with both low quarterly sales and low sales efficiency
 - The majority of companies fall within certain ranges of market capitalization and quarterly sales, indicating the typical distribution in the market
 - Overall, these insights provide a snapshot of the market dynamics and the performance of different companies within it.
+
+### PLOTS
+![](https://github.com/tahir7malik/financial-data-analysis/blob/main/plots/largest-30-companies-by-market-cap.png)
+![](https://github.com/tahir7malik/financial-data-analysis/blob/main/plots/largest-30-companies-by-quaterly-sales.png)
