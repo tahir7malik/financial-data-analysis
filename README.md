@@ -60,9 +60,9 @@ Companies Financial Data: The primary dataset used for this analysis is in "data
 5. IOCL (1,10,666 Cr) has most quaterly sales
 6. Ujjivan Financial Services  (0 Cr) has least quaterly sales
 7. SPARC (553.82) has the highest Sales Efficiency Ratio
-8. Ujjivan Financial Services (0.0) has the lowest sales Sales Efficiency Ratio
-9. Majority companies market cap lies between between 0 - 1,50,000 Cr
-10. Majority companies quaterly sales lies between 0 - 27,500 Cr
+8. Ujjivan Financial Services (0.0) has the lowest Sales Efficiency Ratio
+9. Most of the companies market cap lies between between 0 - 1,50,000 Cr
+10. Most of the companies quaterly sales lies between 0 - 27,500 Cr
 
 ### ACT
 - Reliance Industries stands out with the largest market capitalization, while Ujjivan Financial Services appears to be struggling with both low quarterly sales and low sales efficiency
