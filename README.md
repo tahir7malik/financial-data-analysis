@@ -6,6 +6,7 @@ This repository contains code and resources for conducting analysis on top 500 c
 **I completed this analysis as part of my 1 month internship at Unified Mentor. I was tasked to analyse the competition for the management to provide better results.**
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/tahir.malik/viz/financial-data-analysis/Dashboard)
+![Matplotlib Dashboard](https://github.com/tahir7malik/financial-data-analysis/blob/main/plots/financial-data-analysis-using-tableau.png)
 
 ###  Data Sources
 
@@ -70,5 +71,4 @@ Companies Financial Data: The primary dataset used for this analysis is in "data
 - Overall, these insights provide a snapshot of the market dynamics and the performance of different companies within it.
 
 ### PLOTS
-![](https://github.com/tahir7malik/financial-data-analysis/blob/main/plots/largest-30-companies-by-market-cap.png)
-![](https://github.com/tahir7malik/financial-data-analysis/blob/main/plots/largest-30-companies-by-quaterly-sales.png)
+![Matplotlib Dashboard](https://github.com/tahir7malik/financial-data-analysis/blob/main/plots/financial-data-analysis-using-matplotlib.png)
