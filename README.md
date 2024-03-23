@@ -6,7 +6,7 @@ This repository contains code and resources for conducting analysis on top 500 c
 **I completed this analysis as part of my 1 month internship at Unified Mentor. I was tasked to analyse the competition for the management to provide better results.**
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/tahir.malik/viz/financial-data-analysis/Dashboard)
-![Matplotlib Dashboard](https://github.com/tahir7malik/financial-data-analysis/blob/main/plots/financial-data-analysis-using-tableau.png)
+![Dashboard](https://github.com/tahir7malik/financial-data-analysis/blob/main/plots/financial-data-analysis-using-tableau.png)
 
 ###  Data Sources
 
